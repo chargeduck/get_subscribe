@@ -29,9 +29,12 @@
 
 ## 💸 付费订阅
 
-[>> 便宜机场评测](https://www.ermao.net/resource/vpn/)
-
 我搜罗的一些比较便宜的机场（月消费10块以下），觉得免费订阅不好使的朋友们可以在这里面找找。
+
+| 链接 | 价位 | Telegram群 | 备注 |
+|----|----|----|----|
+|[https://www.efcloud.bio](https://www.efcloud.bio/#/register?code=kbbSUTvm)|	9 元 350G/月|[@efcloudgroup](https://t.me/efcloudgroup)|正常使用|
+|[https://www.fccloud.cc](https://www.fccloud.cc/#/register?code=AYsN4z5L)|	10 元 150G/月|[@fccloudchat](https://t.me/fccloudchat)|需要挂代理访问|
 
 ## ⭐ 感谢支持
 
